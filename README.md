@@ -6,7 +6,7 @@ you to have at least a clue about how to create software?
 
 Requirements
 ============
-* A functioning soundcared and microphone
+* A functioning soundcard and microphone
 * A video camera for the more complex builds
 
 Documentation
