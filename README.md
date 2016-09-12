@@ -1,7 +1,9 @@
 # Abracadabra-Build-System
-A Revolutionary new build system
+A Revolutionary new build system.
+
 Tired of building your software with Make, cmake, scons and other systems that require 
-you to have at least a clue about how to create software? Writing build
+you to have at least a clue about how to create software? 
+
 Requirements
 ============
 * A functioning soundcared and microphone
