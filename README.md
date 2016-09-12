@@ -6,6 +6,7 @@ Requirements
 ============
 * A functioning soundcared and microphone
 * A video camera for the more complex builds
+
 Documentation
 =============
 Mainly the seven first Harry Potter books although a lot of insight can 
